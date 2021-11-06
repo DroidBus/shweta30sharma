@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shweta30sharma
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Android Development
-- 📫 How to reach me shweta282009@gmail.com
+- 📫 reach me @ shweta282009@gmail.com
 
 <!---
 shweta30sharma/shweta30sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
